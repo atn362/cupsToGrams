@@ -1,0 +1,26 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-image: url('https://media.gettyimages.com/photos/-picture-idAB05360?s=612x612');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    border: dotted white 5px;
+
+}
+.table-header{
+    font-weight: 1000;
+}
+table{
+    background-color: white;
+}
