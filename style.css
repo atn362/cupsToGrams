@@ -16,6 +16,7 @@ h1{
     margin-bottom: 25px;
     margin-top: 25px;
     border: dotted white 5px;
+    border-radius: 3rem;
 
 }
 .table-header{
@@ -26,4 +27,7 @@ table{
 }
 .cup_table{
     margin-bottom: 25px;
+}
+.tsp_table{
+    margin-bottom: 25px;  
 }
