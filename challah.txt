@@ -8,4 +8,16 @@ Table Spoon Sugar: 25.0g
 Honey: 21g
 Whole Eggs: 150g
 Egg White: 30g
-Egg Yolks: 20g      
+Egg Yolks: 20g   
+
+1 Loaf Recipe:
+Bread Flour: 500g
+Cup Of Butter: 38g
+Water: 118g
+Salt: 6g
+Active Dry Yeast: 7g
+Table Spoon Sugar: 13g
+Honey: 11g
+Whole Eggs: 75g
+Egg White: 15g
+Egg Yolks: 10g 
