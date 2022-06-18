@@ -52,6 +52,8 @@ cupWater = float(input("Convert cups of water into grams:"))
 print(cupWater * 236)
 cupMilk = float(input("Convert cups of milk into grams:"))
 print(cupMilk * 236)
+cupOil = float(input("Convert cups of oil into grams:"))
+print(cupOil * 225)
 # Converting inputs of ingredients from Teaspoons to grams
 teaSalt = float(input("Convert teaspoon of salt into grams:"))
 print(teaSalt * 6)

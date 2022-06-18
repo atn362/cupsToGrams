@@ -1,0 +1,8 @@
+granSugar = float(input("Convert cups of granulated sugar into grams:"))
+print(granSugar * 200)
+cocoaPowder = float(input("Convert cups of cocoa powder into grams:"))
+print(cocoaPowder * 100)
+apFlour = float(input("Convert cups of all purpose flour into grams:"))
+print(apFlour * 120)
+cupButter = float(input("Convert cups of butter into grams:"))
+print(cupButter * 227)

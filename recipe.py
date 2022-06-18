@@ -23,7 +23,7 @@ def backspace():
 window = Tk()
 
 entry = Entry(window,
-              font=("Courier", 50),
+              font=("Times New Roman", 50),
               fg="blue",
               bg="white")
 
